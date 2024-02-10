@@ -37,4 +37,4 @@
   SF-DRAWABLE   "Input drawable"        0
 )
 
-(script-fu-menu-register "script-fu-ctext" "<Image>/Filters")
+(script-fu-menu-register "script-fu-ctext" "<Image>/Filters/Generic")
